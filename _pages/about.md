@@ -10,6 +10,13 @@ header:
   overlay_image: galaxy-simulation.png
 ---
 
+## About Me
+Hello! I'm Vida Saeedzadeh, an Astrophysics Data Scientist with a passion for merging the realms of high-performance computing and astrophysical research. My journey at the University of Victoria during my Ph.D. was marked by deep dives into cosmological simulations. Specifically, I examined the intricate dynamics of the circumgalactic medium (CGM) surrounding galaxies and delved into the properties and mysteries of Dual Active Galactic Nuclei (AGNs). These explorations provided a window into the complex interactions between galaxies and their cosmic environments. 🌌
+
+One of my hallmark achievements was innovating a technique to optimize the resolution within the CGM region of simulations. This allowed for a more granular study of this medium without the computational overhead of high resolution across the entire galaxy. Beyond the research, I've had the privilege of mentoring budding astrophysicists and organizing academic events at the University of Victoria, enriching both my personal and professional growth. As you navigate through my website, you'll get a deeper glimpse into my research, publications, and contributions to the world of astrophysics. Feel free to reach out for collaborations, discussions, or even a simple chat about the cosmos. Thanks for dropping by, and happy exploring! 🚀🔭
+
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -50,3 +57,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->

@@ -3,7 +3,7 @@ title: "Shining Light on the Hosts of the Nano-Hertz Gravitational Wave Sources:
 collection: publications
 permalink: /publication/host-galaxies-of-gw-sources
 excerpt: ''
-date: 
+date: 2023-09-09
 venue: ''
 paperurl: '[in prep]'
 ---

@@ -2,7 +2,7 @@
 title: "Massive central galaxies of galaxy groups in the Romulus simulations: an overview of galaxy properties at z = 0"
 collection: publications
 permalink: /publication/massive-galaxies-in-romulus
-excerpt: 'In this paper Using high-resolution Romulus simulations, we explore the origin and evolution of the circumgalactic medium (CGM) of massive galaxies. We find that CGM is both multiphase and dynamic. In exploring its dynamic we find seven patterns of evolution, two of them are ways that gas cools. Gas cools via (1) filamentary cooling inflows and (2) condensations forming from rapidly cooling density perturbations. We find that perturbations are mainly seeded by orbiting substructures.'
+excerpt: ''
 date: 2022-07-14
 venue: 'MNRAS'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022MNRAS.515...22J/abstract'

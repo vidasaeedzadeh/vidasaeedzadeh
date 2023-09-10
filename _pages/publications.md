@@ -15,6 +15,6 @@ author_profile: true
 <p><strong>In Prep Papers:</strong></p>
 
 <ul>
-	<li>Paper 1</li>
-	<li>Paper 2</li>
+	<li><strong>Vida Saeedzadeh</strong>, Douglas Rennehan, Arif Babul, Michael Tremmel, Thomas R. Quinn, 2023. <em>&quot;Dual AGNs: Detecting bright AGN pairs onto the path to binary black holes and black hole mergers&quot;</em></li>
+	<li><strong>Vida Saeedzadeh</strong>, Suvodip Mukherjee, Arif Babul, Michael Tremmel, Thomas R. Quinn, 2023. <em>&quot;Supermassive binary blackhole and galaxy connection: Where do we expect the gravitational wave sources detectable from Pulsar Timing Array to reside?&quot;</em></li>
 </ul>

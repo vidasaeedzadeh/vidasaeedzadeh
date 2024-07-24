@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Vida Saeedzadeh"
 title_separator          : "-"
-name                     : &name "Vida Saeedzadeh"
-description              : &description "Computational Astrophysicist | Ph.D. Candidate at University of Victoria"
+name                     : &name "Vida Saeedzadeh,Ph.D."
+description              : &description "Computational Astrophysicist"
 url                      : https://saeedzadeh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vidasaeedzadeh/vidasaeedzadeh.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vida Saeedzadeh"
+  name             : "Vida Saeedzadeh, Ph.D."
   avatar           : "vida-profile.png"
-  bio              : "Computational Astrophysicist \ Ph.D. Candidate at University of Victoria"
+  bio              : "Computational Astrophysicist"
   location         : "Vancouver, BC."
   employer         : "University of Victoria"
   pubmed           : 

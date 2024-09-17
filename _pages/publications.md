@@ -6,9 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %} 
 
 <p>You can also find my papers on <a href="https://ui.adsabs.harvard.edu/public-libraries/VpIIp5VrTBarBZq_afDM_A">ADS profile</a>.</p>
 

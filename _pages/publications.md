@@ -10,7 +10,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} 
 
+{%- comment -%}
 <p>You can also find my papers on <a href="https://ui.adsabs.harvard.edu/public-libraries/VpIIp5VrTBarBZq_afDM_A">ADS profile</a>.</p>
+{%- endcomment -%}
+
 
 <p><strong> First Authored Publications:</strong></p>
 <ul>

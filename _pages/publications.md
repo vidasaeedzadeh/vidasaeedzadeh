@@ -22,7 +22,7 @@ author_profile: true
 <p><strong> Co-authored Publications:</strong></p>
 
 <ul>
-	<li><strong> Massive central galaxies of galaxy groups in the ROMULUS simulations: an overview of galaxy properties at z = 0;</strong>, S Lyla Jung, Douglas Rennehan, <strong> Vida Saeedzadeh </strong> , Arif Babul, Michael Tremmel, Thomas R Quinn, S Ilani Loubser, E O’Sullivan, Sukyoung K Yi. <em> Monthly Notices of the Royal Astronomical Society (2022)</em></li>
-	<li><strong> Imprints of Supermassive Black Hole Evolution on the Spectral and Spatial Anisotropy of Nano-Hertz Stochastic Gravitational-Wave Background;</strong>, Mohit Raj Sah, Suvodip Mukherjee, <strong> Vida Saeedzadeh </strong>, Arif Babul, Michael Tremmel, Thomas R. Quinn. <em> Monthly Notices of the Royal Astronomical Society (2024)</em></li>
+	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"><strong> Massive central galaxies of galaxy groups in the ROMULUS simulations: an overview of galaxy properties at z = 0</strong></a>; S Lyla Jung, Douglas Rennehan, <strong> Vida Saeedzadeh </strong> , Arif Babul, Michael Tremmel, Thomas R Quinn, S Ilani Loubser, E O’Sullivan, Sukyoung K Yi. <em> Monthly Notices of the Royal Astronomical Society (2022)</em></li>
+	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"><strong> Imprints of Supermassive Black Hole Evolution on the Spectral and Spatial Anisotropy of Nano-Hertz Stochastic Gravitational-Wave Background;</strong></a>; Mohit Raj Sah, Suvodip Mukherjee, <strong> Vida Saeedzadeh </strong>, Arif Babul, Michael Tremmel, Thomas R. Quinn. <em> Monthly Notices of the Royal Astronomical Society (2024)</em></li>
 </ul>
 <ul>

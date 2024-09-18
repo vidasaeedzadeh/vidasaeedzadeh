@@ -18,7 +18,7 @@ author_profile: true
 
 <p><strong> First Authored Publications:</strong></p>
 <ul>
-	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"> Cool and gusty, with a chance of rain: dynamics of multiphase CGM around massive galaxies in the Romulus simulations</a>; Vida Saeedzadeh, S Lyla Jung, Douglas Rennehan, Arif Babul, Michael Tremmel, Thomas R Quinn, Zhiwei Shao, Prateek Sharma, Lucio Mayer, E O’Sullivan, S Ilani Loubser. <em> Monthly Notices of the Royal Astronomical Society (2023)</em></li>
+	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"><strong> Cool and gusty, with a chance of rain: dynamics of multiphase CGM around massive galaxies in the Romulus simulations</strong></a>; Vida Saeedzadeh, S Lyla Jung, Douglas Rennehan, Arif Babul, Michael Tremmel, Thomas R Quinn, Zhiwei Shao, Prateek Sharma, Lucio Mayer, E O’Sullivan, S Ilani Loubser. <em> Monthly Notices of the Royal Astronomical Society (2023)</em></li>
 	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"><strong> Shining Light on the Hosts of the Nano-Hertz Gravitational Wave Sources: A Theoretical Perspective</strong></a>; Vida Saeedzadeh, Suvodip Mukherjee, Arif Babul, Michael Tremmel, Thomas R Quinn. <em> Monthly Notices of the Royal Astronomical Society (2024)</em></li>
 	<li><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5677S/abstract"><strong> Dual AGNs: Precursors of Binary Super Massive Black Hole Formation and Mergers </strong></a>; Vida Saeedzadeh, Arif Babul, Suvodip Mukherjee, Michael Tremmel, Thomas R. Quinn, Lucio Mayer. <em> Monthly Notices of the Royal Astronomical Society (2024)</em></li>
 </ul>

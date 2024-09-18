@@ -14,7 +14,7 @@ author_profile: true
 
 <p><strong> First Authored Publications:</strong></p>
 <ul>
-	<li><strong>Vida Saeedzadeh</strong>, Arif Babul, Suvodip Mukherjee, Michael Tremmel, Thomas R. Quinn, Lucio Mayer, 2024. <em>&quot;Dual AGNs: Precursors of Binary Super Massive Black Hole Formation and Mergers&quot;</em></li>
+	<li><strong> Dual AGNs: Precursors of Binary Super Massive Black Hole Formation and Mergers</strong>, Vida Saeedzadeh, Arif Babul, Suvodip Mukherjee, Michael Tremmel, Thomas R. Quinn, Lucio Mayer <em>&quot; Monthly Notices of the Royal Astronomical Society (2024)&quot;</em></li>
 </ul>
 <p><strong> Co-authored Publications:</strong></p>
 

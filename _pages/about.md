@@ -12,7 +12,7 @@ header:
 
 ## About Me
 
-I am an Assistant Research Scientist at Johns Hopkins University and the Space Telescope Science Institute. I’m a Computational Astrophysicist with over four years of specialized experience in high-performance computing and numerical simulations. My research centers on cosmological hydrodynamical simulations, with a focus on galaxy formation and evolution—particularly the interaction between galaxies and their surrounding halos. In my current role, I study emission-line predictions from the [FOGGIE](https://foggie.science/)  simulation.
+I am an Assistant Research Scientist at Johns Hopkins University and the Space Telescope Science Institute. I’m a Computational Astrophysicist with 4+ years of specialized experience in high-performance computing and numerical simulations. My research centers on cosmological hydrodynamical simulations, with a focus on galaxy formation and evolution—particularly the interaction between galaxies and their surrounding halos. In my current role, I study emission-line predictions from the [FOGGIE](https://foggie.science/)  simulation.
 
 I earned my Ph.D. in May 2024 from the University of Victoria. During my doctoral research, I explored the origins and dynamics of the multiphase structure of the circumgalactic medium (CGM), investigated the statistics and properties of dual AGNs as precursors to binary supermassive black holes, and studied the host galaxies of merging black holes emitting low-frequency gravitational wave radiation.
 

@@ -10,7 +10,7 @@ header:
   overlay_image: galaxy-simulation.png
 ---
 
-## About Me
+## About Mee
 
 I am an Assistant Research Scientist at Johns Hopkins University and the Space Telescope Science Institute. I’m a Computational Astrophysicist with 4+ years of specialized experience in high-performance computing and numerical simulations. My research centers on cosmological hydrodynamical simulations, with a focus on galaxy formation and evolution—particularly the interaction between galaxies and their surrounding halos. In my current role, I study emission-line predictions from the [FOGGIE](https://foggie.science/)  simulation.
 
